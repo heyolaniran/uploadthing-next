@@ -12,12 +12,15 @@
     "@uploadthing/react": "^6.4.1",
     "next": "14.1.4",
     "react": "^18",
+    "react-copy-to-clipboard": "^5.1.0",
     "react-dom": "^18",
+    "sonner": "^1.4.41",
     "uploadthing": "^6.7.0"
   },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
+    "@types/react-copy-to-clipboard": "^5.0.7",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
     "postcss": "^8",
